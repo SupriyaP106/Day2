@@ -1,0 +1,7 @@
+E:\Supriya\LTI Training\DevOps Git\Day2\SampleProgram\SampleProgram\bin\Debug\SampleProgram.exe.config
+E:\Supriya\LTI Training\DevOps Git\Day2\SampleProgram\SampleProgram\bin\Debug\SampleProgram.exe
+E:\Supriya\LTI Training\DevOps Git\Day2\SampleProgram\SampleProgram\bin\Debug\SampleProgram.pdb
+E:\Supriya\LTI Training\DevOps Git\Day2\SampleProgram\SampleProgram\obj\Debug\SampleProgram.csprojAssemblyReference.cache
+E:\Supriya\LTI Training\DevOps Git\Day2\SampleProgram\SampleProgram\obj\Debug\SampleProgram.csproj.CoreCompileInputs.cache
+E:\Supriya\LTI Training\DevOps Git\Day2\SampleProgram\SampleProgram\obj\Debug\SampleProgram.exe
+E:\Supriya\LTI Training\DevOps Git\Day2\SampleProgram\SampleProgram\obj\Debug\SampleProgram.pdb
